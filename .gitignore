@@ -4,3 +4,4 @@ __pycache__/
 plots/
 data/
 .vscode/
+.DS_Store
